@@ -40,16 +40,8 @@ My target machine:
 
 Example screen shots
 
-<img src="screenshots/dro_feed_jog.png" 
-     alt="Dro Panel"
-     style="width:2970px;height:705;">
-
- <p>
-<img src="screenshots/middle_controls.png" 
-     alt="Middle Controls"
-     style="width:512px;height:512px;">
- <p>
-
+![Main panel](./screenshots/dro_feed_jog.png?raw=true "Main panel")
+![Middle controls](./screenshots/middle_controls.png?raw=true "Middle controls")
  
 ## Authors
 
