@@ -42,12 +42,12 @@ Example screen shots
 
 <img src="screenshots/dro_feed_jog.png" 
      alt="Dro Panel"
-     style="width:1024px;height:256px;">
+     style="width:2970px;height:705;">
 
  <p>
 <img src="screenshots/middle_controls.png" 
      alt="Middle Controls"
-     style="width:128px;height:128px;">
+     style="width:512px;height:512px;">
  <p>
 
  
