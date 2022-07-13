@@ -36,6 +36,21 @@ My target machine:
   * Accuracy: capable of 0.0025 in. with repeatability in materials at the 
     hardness of brass and below.
 
+## Example
+
+Example screen shots
+
+<img src="screenshots/dro_feed_jog.png" 
+     alt="Dro Panel"
+     style="width:1024px;height:256px;">
+
+ <p>
+<img src="screenshots/middle_controls.png" 
+     alt="Middle Controls"
+     style="width:128px;height:128px;">
+ <p>
+
+ 
 ## Authors
 
 Habanero-GH : no contact info
