@@ -19,7 +19,38 @@ My overall purpose:
   * Obviously there will also be a control board design that ties this all 
     together. I'll link the url when I have published this design.
 
-# Credits
+## Description
+
+Hobby/desktop machine tools suffer from rigidity issues. The components
+tend to be light weight, off the shelf and inexpensive.
+
+S/w has solved similar problems in other domains. Can it be used in machine
+tools. As in: a sufficiently powerful embedded processor is in distinguishable 
+from magic, or something to that effect.
+
+My target machine:
+  * Work envelop: 300mm x 300mm x 125mm
+  * Frame envelop: 500mm x 500mm x 500mm
+  * Target weight of the mechanics:  75 lbs
+  * Cost target: <$750 all in (machine, motion board, excludes PC)
+  * Accuracy: capable of 0.0025 in. with repeatability in materials at the 
+    hardness of brass and below.
+
+## Authors
+
+Habanero-GH : no contact info
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+I have not decided what license. Once this project is more useful I will
+decode.
+
+## Acknowledgments
   Credits to the open source materials I am using. 
 
   * Candle:
@@ -53,17 +84,11 @@ My overall purpose:
 
   * Icons:
       * Icons are borrowed from multiple free sources.
-        * <Oxygen>
-          * FIXME: add URL
-        * <a href="https://www.flaticon.com/free-icons/document" 
-          * title="document icons">
-          * Document icons created by Freepik - Flaticon</a>
-        * <a href="https://www.flaticon.com/free-icons/before" title="before icons">
-          * Before icons created by Smashicons - Flaticon</a> 
-        * <a href="https://www.flaticon.com/free-icons/edit" title="edit icons">
-          * Edit icons created by Pixel perfect - Flaticon</a>
-        * <a href="https://www.flaticon.com/free-icons/play" title="play icons">
-          * Play icons created by Freepik - Flaticon</a>
+        * <Oxygen> FIXME: add URL
+        * <a href="https://www.flaticon.com/free-icons/document" title="document icons"> Document icons created by Freepik - Flaticon</a>
+        * <a href="https://www.flaticon.com/free-icons/before" title="before icons"> Before icons created by Smashicons - Flaticon</a> 
+        * <a href="https://www.flaticon.com/free-icons/edit" title="edit icons"> Edit icons created by Pixel perfect - Flaticon</a>
+        * <a href="https://www.flaticon.com/free-icons/play" title="play icons"> Play icons created by Freepik - Flaticon</a>
         * <a href="https://www.flaticon.com/free-icons/close" title="close icons">Close icons created by ariefstudio - Flaticon</a>
         * <a href="https://www.flaticon.com/free-icons/pause" title="pause icons">Pause icons created by inkubators - Flaticon</a>
         * <a href="https://www.flaticon.com/free-icons/rewind" title="rewind icons">Rewind icons created by Freepik - Flaticon</a>
@@ -72,67 +97,3 @@ My overall purpose:
 
   Thanks folks.
 
-## Description
-
-FIXME: hobby machine suffer from rigidity issues, they are light weight, the
-components are off the shelf and inexpensive. S/w has solved similar problems,
-I sufficiently powered embedded processor is in distinguishable from magic,
-or something to that effect.
-
-My target machine is a 300mm x 300mm x 125mm work envelop  within a 
-500mm x 500mm x 500mm frame. Target weight of the machine weight of < 75 lbs,
-and costing < $750 (all in, machine and motion board), capable of 0.0025" 
-repeatability in materials at the hardness of brass and below.
-
-
-## Getting Started
-
-### Dependencies
-
-FIXME: windows 10/11, linux ubuntu, qt5, c++17, qt creator v.blah.blah, more
-
-### Installing
-
-FIXME: work up an install recipe
-
-### Executing program
-
-FIXME: see above
-
-## Help
-
-FIXME: everything below this is cut and paste.
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
